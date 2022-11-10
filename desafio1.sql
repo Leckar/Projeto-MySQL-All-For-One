@@ -1,1 +1,1 @@
-SELECT products_name FROM northwind.products;
+SELECT products_names FROM northwind.products;
